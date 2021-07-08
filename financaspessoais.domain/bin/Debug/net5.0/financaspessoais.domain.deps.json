@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "financaspessoais.domain/1.0.0": {
+        "dependencies": {
+          "financaspessoais.common": "1.0.0"
+        },
+        "runtime": {
+          "financaspessoais.domain.dll": {}
+        }
+      },
+      "financaspessoais.common/1.0.0": {
+        "runtime": {
+          "financaspessoais.common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "financaspessoais.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "financaspessoais.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

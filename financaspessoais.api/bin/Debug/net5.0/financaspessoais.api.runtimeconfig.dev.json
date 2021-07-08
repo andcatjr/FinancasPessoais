@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\catel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\catel\\.nuget\\packages"
+    ]
+  }
+}

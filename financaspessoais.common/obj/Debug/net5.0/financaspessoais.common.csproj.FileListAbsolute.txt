@@ -1,0 +1,12 @@
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\bin\Debug\net5.0\financaspessoais.common.deps.json
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\bin\Debug\net5.0\financaspessoais.common.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\bin\Debug\net5.0\ref\financaspessoais.common.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\bin\Debug\net5.0\financaspessoais.common.pdb
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.csproj.AssemblyReference.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.AssemblyInfoInputs.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.AssemblyInfo.cs
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.csproj.CoreCompileInputs.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\ref\financaspessoais.common.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.common\obj\Debug\net5.0\financaspessoais.common.pdb

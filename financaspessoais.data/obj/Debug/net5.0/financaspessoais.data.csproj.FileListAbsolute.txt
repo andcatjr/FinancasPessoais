@@ -1,0 +1,17 @@
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.csproj.AssemblyReference.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.AssemblyInfoInputs.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.AssemblyInfo.cs
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.csproj.CoreCompileInputs.cache
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.data.deps.json
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.data.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\ref\financaspessoais.data.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.data.pdb
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.common.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.domain.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.domain.pdb
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\bin\Debug\net5.0\financaspessoais.common.pdb
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.csproj.CopyComplete
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\ref\financaspessoais.data.dll
+C:\Projetos\git\Testes\FinancasPessoais\financaspessoais.data\obj\Debug\net5.0\financaspessoais.data.pdb
